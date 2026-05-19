@@ -191,8 +191,8 @@ function fetchWhoisData(domain) {
   };
 
   return (
-    <div className="max-w-4xl mx-auto space-y-8">
-      <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
+    <div className="max-w-5xl mx-auto space-y-8 px-4 sm:px-0">
+      <div className="bg-white p-6 sm:p-8 rounded-2xl shadow-sm border border-slate-200 overflow-hidden">
         <div className="flex items-center space-x-3 mb-6">
           <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center">
             <Server className="w-6 h-6" />
