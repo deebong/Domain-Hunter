@@ -1,0 +1,5 @@
+{
+  "name": "Domain Hunter",
+  "description": "A WHOIS status monitoring tool to track and hunt down expiring domains.",
+  "requestFramePermissions": []
+}
